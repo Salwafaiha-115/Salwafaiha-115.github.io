@@ -92,7 +92,7 @@
 
         <section id="makam-wali" class="grid">
             <h2>Makam Sapuro</h2>
-            <img src="makam_sapuro.jpg" alt="Makam Sapuro">
+            <img src="makam_sapuro.jpeg" alt="Makam Sapuro">
             <p>Makam Sapuro dikenal sebagai tempat peristirahatan terakhir dari beberapa tokoh agama yang dihormati, termasuk Habib Ahmad bin Abdullah bin Tholib Alathas. Tempat ini banyak dikunjungi peziarah dan santri.
                 Makam ini terletak strategis dekat jalur pantura, sekitar 100 meter dari jalan Jenderal Sudirman, sehingga mudah dijangkau oleh para peziarah. Lokasinya yang dekat dengan pusat kota menjadikannya sebagai salah satu tujuan wisata religi yang populer.
             </p>
@@ -100,7 +100,7 @@
 
         <section id="masjid" class="grid">
             <h2>Masjid Agung Al-Jami' Pekalongan</h2>
-            <img src="masjid_agung_aljami_pekalongan.jpg" alt="Masjid Agung Al-Jami Pekalongan">
+            <img src="masjid_agung_aljami_pekalongan.jpeg" alt="Masjid Agung Al-Jami Pekalongan">
             <p>Masjid Agung Al-Jami' Pekalongan bukan hanya sekadar tempat ibadah, tetapi juga merupakan pusat budaya dan sejarah yang kaya akan nilai-nilai keagamaan yang terletak di alun-alun kota Pekalongan.
                 Masjid ini dibangun pada tahun 1852 oleh Raden Ario Wirio Tumengung Adi Negoro, yang merupakan bupati Pekalongan ketiga.
                 Awalnya, masjid ini dikenal sebagai Masjid Besar Pekalongan sebelum berganti nama menjadi Masjid Agung Al-Jami' pada tahun 1968 atas saran Habib Ali bin Ahmad Al-Athas.
@@ -109,7 +109,7 @@
 
         <section id="majelis-keagamaan" class="grid">
             <h2>Kanzus Shalawat</h2>
-            <img src="kanzus_shalawat.jpg" alt="Kanzus Shalawat">
+            <img src="kanzus_shalawat.jpeg" alt="Kanzus Shalawat">
             <p>Kanzus Sholawat di Pekalongan adalah sebuah majelis keagamaan yang berfokus pada kegiatan pengajian dan perayaan keagamaan, terutama peringatan Maulid Nabi Muhammad SAW. Majelis ini dipopulerkan oleh Habib Luthfi bin Yahya.
                 Perayaan Maulid di Kanzus Sholawat meliputi berbagai kegiatan seperti ziarah, pembacaan ratib, gambusan (pengajian), nikah maulid, pawai panjang jimat, dan puncak peringatan maulid akbar.
                 Kegiatan-kegiatan ini tidak hanya membawa semangat dakwah Islam tetapi juga sarat dengan nilai-nilai budaya yang islami.
