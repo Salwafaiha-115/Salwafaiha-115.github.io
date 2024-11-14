@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: 'Times New Roman', sans-serif;
     margin: 0;
     padding: 0;
