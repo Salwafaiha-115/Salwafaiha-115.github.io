@@ -45,23 +45,26 @@
         }
 
         .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            display: flex;
+            flex-direction: column; /* Stack sections vertically */
             gap: 20px;
             margin-bottom: 20px;
         }
 
-        .grid img {
-            width: 100%;
-            border-radius: 10px;
-            height: auto; /* Maintain aspect ratio */
-        }
-
-        .grid section {
+        .grid-item {
+            display: flex; /* Use flexbox for side-by-side layout */
+            align-items: center; /* Center items vertically */
             background-color: #f9f9f9; /* Light background for sections */
             padding: 15px;
             border-radius: 10px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+        }
+
+        .grid-item img {
+            width: 300px; /* Fixed width for images */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 10px;
+            margin-right: 20px; /* Space between image and text */
         }
 
         .contact {
@@ -90,23 +93,3 @@
                     <li><a href="#kontak">Kontak</a></li>
                 </ul>
             </nav>
-        </div>
-    </header>
-
-    <main class="container">
-        <section id="home" class="hero">
-            <h2>Temukan Keindahan Wisata Religi</h2>
-            <p>Pekalongan menyimpan banyak destinasi wisata religi yang kaya akan nilai sejarah dan spiritual.</p>
-        </section>
-
-        <section id="makam-wali" class="grid">
-            <h2>Makam Sapuro</h2>
-            <img src="makam_sapuro.jpg" alt="Makam Sapuro">
-            <p>Makam Sapuro dikenal sebagai tempat peristirahatan terakhir dari beberapa tokoh agama yang dihormati, termasuk Habib Ahmad bin Abdullah bin Tholib Alathas. Tempat ini banyak dikunjungi peziarah dan santri.
-                Makam ini terletak strategis dekat jalur pantura, sekitar 100 meter dari jalan Jendral Sudirman, sehingga mudah dijangkau oleh para peziarah. Lokasinya yang dekat dengan pusat kota menjadikannya sebagai salah satu tujuan wisata religi yang populer.
-            </p>
-        </section>
-
-        <section id="masjid" class="grid">
-            <h2>Masjid Agung Al-Jami Pekalongan</h2>
-            <img src="masjid_agung_al_jami.jpg" alt
