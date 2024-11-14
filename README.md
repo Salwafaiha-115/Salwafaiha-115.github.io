@@ -34,7 +34,7 @@
         }
 
         nav ul li a {
-            color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
             text-decoration: none;
         }
 
@@ -54,6 +54,14 @@
         .grid img {
             width: 100%;
             border-radius: 10px;
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        .grid section {
+            background-color: #f9f9f9; /* Light background for sections */
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
         }
 
         .contact {
@@ -93,7 +101,7 @@
 
         <section id="makam-wali" class="grid">
             <h2>Makam Sapuro</h2>
-            <img src="makam sapuro" alt="Makam Sapuro">
+            <img src="makam_sapuro.jpg" alt="Makam Sapuro">
             <p>Makam Sapuro dikenal sebagai tempat peristirahatan terakhir dari beberapa tokoh agama yang dihormati, termasuk Habib Ahmad bin Abdullah bin Tholib Alathas. Tempat ini banyak dikunjungi peziarah dan santri.
                 Makam ini terletak strategis dekat jalur pantura, sekitar 100 meter dari jalan Jendral Sudirman, sehingga mudah dijangkau oleh para peziarah. Lokasinya yang dekat dengan pusat kota menjadikannya sebagai salah satu tujuan wisata religi yang populer.
             </p>
@@ -101,31 +109,4 @@
 
         <section id="masjid" class="grid">
             <h2>Masjid Agung Al-Jami Pekalongan</h2>
-            <img src="Masjid Agung Al-Jami Pekalongan..jpg" alt="Masjid Agung Al-Jami Pekalongan">
-            <p>Masjid Agung Al-Jami' Pekalongan bukan hanya sekadar tempat ibadah, tetapi juga merupakan pusat budaya dan sejarah yang kaya akan nilai-nilai keagamaan yang terletak di alun-alun kota Pekalongan.
-                Masjid ini dibangun pada tahun 1852 oleh Raden Ario Wirio Tumengung Adi Negoro, yang merupakan bupati Pekalongan ketiga.
-                Awalnya, masjid ini dikenal sebagai Masjid Besar Pekalongan sebelum berganti nama menjadi Masjid Agung Al-Jami' pada tahun 1968 atas saran Habib Ali bin Ahmad Al-Athas.
-            </p>
-        </section>
-
-        <section id="majelis-keagamaan" class="grid">
-            <h2>Kanzus Shalawat</h2>
-            <img src="kanzus shalawat" alt="Kanzus Shalawat">
-            <p>Kanzus Sholawat di Pekalongan adalah sebuah majelis keagamaan yang berfokus pada kegiatan pengajian dan perayaan keagamaan, terutama peringatan Maulid Nabi Muhammad SAW. Majelis ini dipopulerkan oleh Habib Luthfi bin Yahya.
-                Perayaan Maulid di Kanzus Sholawat meliputi berbagai kegiatan seperti ziarah, pembacaan ratib, gambusan (pengajian), nikah maulid, pawai panjang jimat, dan puncak peringatan maulid akbar.
-                Kegiatan-kegiatan ini tidak hanya membawa semangat dakwah Islam tetapi juga sarat dengan nilai-nilai budaya yang islami.
-            </p>
-        </section>
-
-        <section id="kontak" class="contact">
-            <h2>Kontak Kami</h2>
-            <p>Email: salwafaiha27@gmail.com</p>
-            <p>Instagram: salwafaihaa</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Pesona Wisata Religi Pekalongan. Semua hak dilindungi.</p>
-    </footer>
-</body>
-</html>
+            <img src="masjid_agung_al_jami.jpg" alt
