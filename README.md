@@ -60,7 +60,7 @@ footer {
     background-color: #333;
     color: white;
 }
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
